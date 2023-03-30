@@ -3,31 +3,37 @@
 ## 1.US01 Acessar atravéz do WhatsApp
 Eu, como usuário, quero **Acessar atravéz do WhatsApp** para que eu **Tenha facilidade o agendamento**.
 <p>Criterios de aceitação:</p>
-- Possua um numero especifo para isso  
+- O tempo de resposta do produto às solicitações do usuário deve ser rápido e eficiente. 
+- O usuário deve ser capaz de enviar mensagens ou comandos específicos para acessar e utilizar as funcionalidades do produto.
 
 ## 2.US02 Solicitar um agendamento
 Eu, como usuário, quero **Solicitar um agendamento** para que eu **Possa consultar**.  
 <p>Criterios de aceitação:</p>
-- Que seja de maneira acessivel 
+- A solicitação de agendamento pelo WhatsApp deve ser uma alternativa conveniente e eficiente para o usuário agendar atividades ou serviços.
+- Fornecer data e hora.
 
 ## 3.US03 Informações sobre horarios de atendimento
 Eu, como usuário, quero **Informações sobre horarios de atendimento** para que eu **Encontre um horário mais adequado**.
 <p>Criterios de aceitação:</p>
+- As iformação sobre horarios devem ser específicas.
 
 ## 4.US04 Informações sobre horarios de vacina
 Eu, como usuário, quero **Informações sobre horarios de vacina** para que eu ** Me certifique dos horários disponíveis **.
 <p>Criterios de aceitação:</p>
- 
+ - A informação sobre os horarios de vacina devem ser atulzidas.
 
 ## 5.US05 Me informar sobre as áreas de especialização dos médicos
 Eu, como usuário, quero **Me informar sobre as áreas de especialização dos médicos** para que eu **Consiga um adendimento coincidente**.
 <p>Criterios de aceitação:</p>
+- Ter acesso a uma breve lista sobre os medicos disponiveis em cada especialidades.
+- Especificar os nomes do Medicos especialistas em cada area. 
 
 ## 6.US06 O WhatsApp com redirecionamento automatico 
 Eu, como usuário, quero **O WhatsApp com redirecionamento automatico ** para que eu **Obtenha um solicitamento eficiente**.
 <p>Criterios de aceitação:</p>
+- Direcionamento para agendamento da consulta. 
 
 ## 7.US07 Obter informação sobre agendamento
 Eu, como usuário, quero **Obter informação sobre agendamento** para que eu **Verifique se o agendamento foi feito corretamente**.
 <p>Criterios de aceitação:</p> 
-
+- Saber se o agendamento foi efetuado com sucesso.
