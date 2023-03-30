@@ -1,14 +1,14 @@
 # Épico 1. Agendamento
 
 ## 1.US01 Acessar atravéz do WhatsApp
-Eu, como usuário, quero **Acessar atravéz do WhatsApp** para que eu **Consiga facilitar o agendamento**.
+Eu, como usuário, quero **Acessar atravéz do WhatsApp** para que eu **Tenha facilidade o agendamento**.
 <p>Criterios de aceitação:</p>
-- Teste  
-- teste  
+- Possua um numero especifo para isso  
 
 ## 2.US02 Solicitar um agendamento
 Eu, como usuário, quero **Solicitar um agendamento** para que eu **Possa consultar**.  
 <p>Criterios de aceitação:</p>
+- Que seja de maneira acessivel 
 
 ## 3.US03 Informações sobre horarios de atendimento
 Eu, como usuário, quero **Informações sobre horarios de atendimento** para que eu **Encontre um horário mais adequado**.
@@ -17,6 +17,7 @@ Eu, como usuário, quero **Informações sobre horarios de atendimento** para qu
 ## 4.US04 Informações sobre horarios de vacina
 Eu, como usuário, quero **Informações sobre horarios de vacina** para que eu ** Me certifique dos horários disponíveis **.
 <p>Criterios de aceitação:</p>
+ 
 
 ## 5.US05 Me informar sobre as áreas de especialização dos médicos
 Eu, como usuário, quero **Me informar sobre as áreas de especialização dos médicos** para que eu **Consiga um adendimento coincidente**.
