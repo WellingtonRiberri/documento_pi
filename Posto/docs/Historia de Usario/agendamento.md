@@ -36,4 +36,4 @@ Eu, como usuário, quero **O WhatsApp com redirecionamento automatico ** para qu
 ## 7.US07 Obter informação sobre agendamento
 Eu, como usuário, quero **Obter informação sobre agendamento** para que eu **Verifique se o agendamento foi feito corretamente**.
 <p>Criterios de aceitação:</p> 
-- Saber se o agendamento foi efetuado com sucesso.
+- Saber se o agendamento foi efetuado com sucesso.  

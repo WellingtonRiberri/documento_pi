@@ -3,7 +3,7 @@ site_author: Equipe 2
 
 theme:
   name: material
-  favicon: images/sus.png
+  favicon: images/Logo-FEPI.png
   palette: 
     primary: white 
   logo: images/coração.gif
