@@ -19,11 +19,9 @@ Esse projeto se refere a disciplina de projeto integrador ministrada no curso de
      <li>Cadastrar, alterar, listar, pesquisar e excluir medicamentos</li>
      <li>Cadastrar, alterar, listar e excluir agendamentos de consultas</li>
      <li>Adicionar e remover medicamentos do sistema (estoque)</li>
-     <li>Geração de comprovante de agendamento de consulta (em PDF)</li>
      <li>Validação e restrição de acesso</li>
      <li>Permissões e funcionalidades definidas por nível de acesso (administrador/usuário padrão)</li>
-     <li>Solicitação online de medicamentos por parte do paciente (em desenvolvimento)</li>
-     <li>Dashboard no painel administrativo com informações úteis para os administradores do sistema (a fazer)</li>
+     <li>Dashboard no painel administrativo com informações úteis para os administradores do sistema</li>
 </ul>
  
 
@@ -45,7 +43,7 @@ Esse projeto se refere a disciplina de projeto integrador ministrada no curso de
                         }
                 </style>
 
-## Contribuidores
+## **Contribuidores**
 
 
 | Matricula |        <center> Nome</center>                      | <center> E-mail</center>     |
