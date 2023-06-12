@@ -48,7 +48,7 @@ Esse projeto se refere a disciplina de projeto integrador ministrada no curso de
 
 | Matricula |        <center> Nome</center>                      | <center> E-mail</center>     |
 | --------- | -------------------------------------------------- | ---------------------------- | 
-|   019730  |<center>Guilherme de Oliveira Dia</center>          | guilhermedias1517@gmail.com  |
+|   019730  |<center>Guilherme de Oliveira Dias</center>          | guilhermedias1517@gmail.com  |
 |   010163  |<center>Guilherme Henrique de Sene Oliveira</center>| guihenriquesene@gmail.com    |
 |   019929  |<center>João Lucas Silva de Sousa</center>          | jsousa.quimico@gmail.com     |
 |   019570  |<center>Wellington Olimpio Soares Ribeiro</center>  | wellingtonosribeiro@gamil.com|
@@ -56,7 +56,7 @@ Esse projeto se refere a disciplina de projeto integrador ministrada no curso de
 
 <div style="display:flex; justify-content:space-around">
 <img src="./images/GuilhermeDias.jpg" width="110" height="100" style="border-radius: 50%; margin: 5px"/>
-<img src="./images/Logo-FEPI.png" width="110" height="100" style="border-radius: 50%; margin: 5px" />
+<img src="./images/GuilhermeSene.jpg" width="110" height="100" style="border-radius: 50%; margin: 5px" />
 <img src="./images/JoaoLucas.jpg" width="110" height="100" style="border-radius: 50%; margin: 5px" />
 <img src="./images/Wellington.jpg" width="110" height="100" style="border-radius: 50%; margin: 5px" />
 </div>
